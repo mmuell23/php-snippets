@@ -3,5 +3,12 @@ http://phpunit.de/manual/3.7/en/selenium.html
 
 b. Run composer install
 
-c. Run ./vendor/bin/phpunit to start Selenium Tes
+c. Run ./vendor/bin/phpunit to start Selenium Tests
+
+To record tets:
+
+Install Add-Ons in Firefox:
+Selenium IDE: http://docs.seleniumhq.org/download/
+Selenium PHP Formatters: https://addons.mozilla.org/en-US/firefox/addon/selenium-ide-php-formatters/ 
+
 
