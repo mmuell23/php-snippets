@@ -1,0 +1,9 @@
+a. Install and Run Selenium Server:
+http://phpunit.de/manual/3.7/en/selenium.html
+
+b. Run composer install
+
+c. Run ./vendor/bin/phpunit to start Selenium Tes
+b. Run composer install
+
+c. Run ./vendor/bin/phpunit to start Selenium Test
