@@ -1,4 +1,9 @@
-a. Install and Run Selenium Server:
+Be sure to have PHP and Composer installed:
+http://getcomposer.org/
+
+Let's go:
+
+a. Install and run Selenium Server:
 http://phpunit.de/manual/3.7/en/selenium.html
 
 b. Run composer install
@@ -11,4 +16,5 @@ Install Add-Ons in Firefox:
 Selenium IDE: http://docs.seleniumhq.org/download/
 Selenium PHP Formatters: https://addons.mozilla.org/en-US/firefox/addon/selenium-ide-php-formatters/ 
 
+Now you're able to record tests and store those directly as PHPUnit-Tests. Be sure to change the classname of each stored tests.
 
